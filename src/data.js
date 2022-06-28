@@ -103,3 +103,11 @@ export const DATA = [{
     "releaseYear": 2010,
     "genre": ["Animation", "Adventure", "Family"]
 }];
+
+// const search = "Life of Brian";
+
+// const res = DATA.filter(f => f.title === search);
+//         console.log(res);
+//         const copyData = JSON.parse(JSON.stringify(DATA));
+//         // console.log(copyData)
+// console.log(Boolean(""))
